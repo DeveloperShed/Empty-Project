@@ -56,6 +56,12 @@ project template.
     git branch -m master
     ```
 
+ 1. Remove the `origin` remote pointing to the template project.
+
+    ```bash
+    git remote rm origin
+    ```
+
  1. Create a [new repository](https://github.com/organizations/DeveloperShed/repositories/new) on GitHub inside the Developer Shed organization.
   - Give your new repository a logical name and a good description
   - Make sure you leave it set to have *public* access
