@@ -58,9 +58,9 @@ project template.
 
  1. Create a [new repository](https://github.com/organizations/DeveloperShed/repositories/new) on GitHub inside the Developer Shed organization.
   - Give your new repository a logical name and a good description
-  - Make sure you leave it set to have #public# access
+  - Make sure you leave it set to have *public* access
   - Do NOT choose to initialize the repository with a README file
-  - Leave #Add a license# set to #None#
+  - Leave *Add a license* set to *None*
  1. Follow the instructions to add a remote for the new repository and push your initial changes.
 
     ```bash
